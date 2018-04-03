@@ -4,14 +4,14 @@ CPU-Scheduler
 Intro
 ------
 
-| This Project demonstrates how the cpu scheduling works using algorithms:
-|
-|        - First Come First Served
-|        - Shortest Job First (Non-Preemptive)
-|        - Shortest Job First (Preemptive)
-|        - Priority (Non-Preemptive)
-|        - Priority (Preemptive)
-|        - Round Robin
+ This Project demonstrates how the cpu scheduling works using algorithms:
+
+        1- First Come First Served
+        2- Shortest Job First (Non-Preemptive)
+        2- Shortest Job First (Preemptive)
+        3- Priority (Non-Preemptive)
+        4- Priority (Preemptive)
+        5- Round Robin
 
 Contents
 --------
